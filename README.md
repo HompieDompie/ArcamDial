@@ -55,5 +55,8 @@ but it requires Roon.
 - The dial has an inbuild timeout of 5 minutes. It wakes up when you click or rotate it,
   but that event sometimes gets send to the program, sometimes not. I'm not sure why.
 
+![image](https://github.com/user-attachments/assets/2a86b4e8-270d-4f0b-a409-9b5ad98d5f50)
+
+
   
 
